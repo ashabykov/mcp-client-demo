@@ -1,6 +1,7 @@
 {
   "allowed_repos": [
     "/home/user/projects",
-    "/tmp/test-repo"
+    "/tmp/test-repo",
+    "/Users/askarshabykov/Coding/mcp-client-demo"
   ]
 }
